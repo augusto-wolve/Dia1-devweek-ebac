@@ -19,6 +19,7 @@
 .left-section{
     grid-column: span 2;
     height: 100%;
+    width: 100%;
     background-color: #999999;  
     border-right: 7px solid black;
 }
@@ -28,7 +29,7 @@
 }
 
 .perfil{
-    width: 70%;
+    width: 100%;
     border-bottom: 2px solid #eeeeee;
 
 
@@ -64,7 +65,7 @@
     height: 100%;
     background-color: #424a50;
     border-radius: 0px 40px 360px 0px;
-    border-left: 7px solid #fff;
+    border-left: 7px dashed  #fff;
 
 }
 
